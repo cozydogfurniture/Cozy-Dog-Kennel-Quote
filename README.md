@@ -1,2 +1,2 @@
-# Cozy-Dog-Kennel-Quote
-Kennel quote builder
+# Cozy-Dog-Slab-Pricer-Pro
+Slab Pricing Calculator
